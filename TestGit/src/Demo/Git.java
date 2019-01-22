@@ -88,6 +88,7 @@ public class Git {
 		driver.findElement(By.className("_1nnEY")).click();
 		System.out.println("*********SignUp Address field is Completed*******************");
 		Thread.sleep(2000);
+		System.out.println("Success the value");
 	}
 	@AfterClass
 	public void end()
