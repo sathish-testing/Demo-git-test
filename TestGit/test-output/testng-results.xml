@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13204" started-at="2019-01-22T05:25:53Z" finished-at="2019-01-22T05:26:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13204" started-at="2019-01-22T05:25:53Z" finished-at="2019-01-22T05:26:06Z">
+      <class name="Demo.Git">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Demo.Git@1877ab81]" name="setup" is-config="true" duration-ms="5171" started-at="2019-01-22T05:25:53Z" finished-at="2019-01-22T05:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signup()[pri:0, instance:Demo.Git@1877ab81]" name="signup" duration-ms="7841" started-at="2019-01-22T05:25:58Z" finished-at="2019-01-22T05:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="end()[pri:0, instance:Demo.Git@1877ab81]" name="end" is-config="true" duration-ms="142" started-at="2019-01-22T05:26:06Z" finished-at="2019-01-22T05:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Demo.Git -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
